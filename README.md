@@ -55,4 +55,7 @@ yara notepadplusplus.rule <Path to Search>
 1. https://www.rapid7.com/blog/post/tr-chrysalis-backdoor-dive-into-lotus-blossoms-toolkit/
 2. https://notepad-plus-plus.org/news/hijacked-incident-info-update/
 3. https://github.com/CreamyG31337/chrysalis-ioc-triage
+4. https://www.validin.com/blog/exploring_notepad_plus_plus_network_indicators/
+5. https://securelist.com/notepad-supply-chain-attack/118708/
+6. https://www.rapid7.com/blog/post/tr-chrysalis-backdoor-dive-into-lotus-blossoms-toolkit/
 
