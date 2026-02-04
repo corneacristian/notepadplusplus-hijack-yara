@@ -1,4 +1,4 @@
-# Notepad++ Hijack Incident 2026 YARA Rule
+# Notepad++ Hijack Campaign 2026 YARA Rule
 
 ```
 import "hash"
