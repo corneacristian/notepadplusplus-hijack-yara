@@ -11,8 +11,12 @@ rule Notepad_Plus_Plus_Hijack
         $ioc2 = "61.4.102.97" ascii wide
         $ioc3 = "59.110.7.32" ascii wide
         $ioc4 = "124.222.137.114" ascii wide
-        $ioc5 = "api.skycloudcenter.com" ascii wide nocase
-        $ioc6 = "api.wiresguard.com" ascii wide nocase
+        $ioc5 = "45.76.155.202" ascii wide
+        $ioc6 = "api.skycloudcenter.com" ascii wide nocase
+        $ioc7 = "api.wiresguard.com" ascii wide nocase
+        #ioc8 = "safe-dns.it.com" ascii wide nocase
+        $ioc9 = "elf-dns.it.com" ascii wide nocase
+        $ioc10 = "dncheck.it.com" ascii wide nocase
 
     condition:
         (
